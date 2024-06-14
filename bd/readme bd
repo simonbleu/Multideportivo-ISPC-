@@ -1,0 +1,3 @@
+Para e el correcto funcionamiento de este programa, es necesario instalar mySQL, 
+y en el interpretador de python la libreria para poder conectar al mismo, que es:
+# "pip install mysql-connector-python" (sin el numeral)
